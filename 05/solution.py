@@ -1,6 +1,5 @@
 import re
 import math
-import itertools
 
 stacks = [[],[],[],[],[],[],[],[],[]]
 movements = []
